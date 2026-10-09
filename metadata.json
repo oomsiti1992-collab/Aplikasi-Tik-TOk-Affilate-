@@ -1,0 +1,7 @@
+{
+  "name": "TikTok Affiliate Assistant — by Yayan",
+  "description": "Asisten AI untuk membuat konsep video promosi TikTok Affiliate yang menarik, natural, kreatif, dan siap viral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
